@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notty</string>
+    <string name="documents">Documents</string>
+    <string name="options">Options</string>
+    <string name="back_arrow_image_alt">Back Arrow for Account Settings</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="edit">Edit Profile</string>
+    <string name="signout">Sign Out</string>
+    <string name="change_profile_photo">Change Profile Photo</string>
+    <string name="username_hint">username</string>
+    <string name="name_hint">name surname</string>
+    <string name="website_hint">http://www.something.com</string>
+    <string name="description_hint">description</string>
+    <string name="profileLink">https://github.com/sukrugumustas</string>
+</resources>
